@@ -4,3 +4,5 @@ for i in varName
 do 
     file.${i}
 done
+echo"great"
+
